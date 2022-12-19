@@ -2,7 +2,7 @@
 
 Hi, how are you? 
 # 💫 About Me:
-👩‍💻I am a Junior Full Stack Developer<br>📧Send me an email or add me on Linkedin!<br>
+👩‍💻I am a Junior Full Stack Developer<br>📧Add me on <a href="https://www.linkedin.com/in/carolina-acu%C3%B1a-584816187/">LinkedIn! <a/> <br>
 
 
 ## 🌐 Socials:
