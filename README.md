@@ -2,7 +2,7 @@
 
 Hi, how are you? 
 # 💫 About Me:
-👩‍💻I am a Junior Full Stack Developer<br>📧Add me on <a href="https://www.linkedin.com/in/caro-acu%C3%B1a-/">LinkedIn! <a/> <br>
+👩‍💻I am a Junior Full Stack Developer<br>📧Add me on <a href="https://www.linkedin.com/in/caroacuña/">LinkedIn! <a/> <br>
 
 
 ## 🌐 Socials:
